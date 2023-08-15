@@ -1,4 +1,5 @@
-
+__
+ENG:
 The concept of ML is depicted with an example of predicting the price of a car. The ML model learns from data, represented as some features such as year, mileage, among others, and the target variable, in this case, the car's price, by extracting patterns from the data.
 
 Then, the model is given new data (without the target) about cars and predicts their price (target).
@@ -10,7 +11,7 @@ Therefore, new feature values are presented to the model, and it makes predictio
 
 __
 
-Bahasa Indonesia:
+ID:
 
 Konsep Pembelajaran Mesin (ML) digambarkan dengan contoh meramalkan/Prediksi/Forecasting harga mobil. Model ML belajar dari data, yang direpresentasikan sebagai beberapa fitur/variabel seperti tahun, jarak tempuh, dan lain-lain, serta variabel target, dalam hal ini, harga mobil, dengan mengekstrak pola dari data.
 
