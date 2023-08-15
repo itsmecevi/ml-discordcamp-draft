@@ -9,4 +9,5 @@ In summary, ML is a process of extracting patterns from data, which is of two ty
 Therefore, new feature values are presented to the model, and it makes predictions from the learned patterns.
 
 __
+
 Bahasa Indonesia:
