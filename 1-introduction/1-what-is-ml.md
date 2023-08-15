@@ -11,3 +11,17 @@ Therefore, new feature values are presented to the model, and it makes predictio
 __
 
 Bahasa Indonesia:
+
+Konsep Pembelajaran Mesin (ML) digambarkan dengan contoh meramalkan/Prediksi/Forecasting harga mobil. Model ML belajar dari data, yang direpresentasikan sebagai beberapa fitur/variabel seperti tahun, jarak tempuh, dan lain-lain, serta variabel target, dalam hal ini, harga mobil, dengan mengekstrak pola dari data.
+
+Kemudian, model diberikan data baru (tanpa target) tentang mobil dan meramalkan harganya (target).
+Secara ringkas, ML adalah proses mengekstrak pola dari data, yang terdiri dari dua jenis:
+* fitur/variabel (informasi tentang objek) dan
+* target (properti yang akan diprediksi untuk objek yang belum dilihat).
+
+Selain itu ML juga terbagi menjadi proses:
+* Data training (80%)
+* Data testing (20%)
+* Data validation (optional dan advanced: 60% training, 20% validasi, 20% testing)
+
+Oleh karena itu, nilai fitur yang baru dites kepada model, dan model membuat prediksi dari pola yang telah dipelajari.
