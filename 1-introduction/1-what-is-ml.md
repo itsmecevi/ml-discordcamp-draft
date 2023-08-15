@@ -28,3 +28,5 @@ Selain itu ML juga terbagi menjadi proses:
 * Data validation (optional dan advanced: 60% training, 20% validasi, 20% testing)
 
 Oleh karena itu, nilai fitur yang baru dites kepada model, dan model membuat prediksi dari pola yang telah dipelajari.
+
+Slide: https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-11-introduction-to-machine-learning
