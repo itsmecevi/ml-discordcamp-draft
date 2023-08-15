@@ -40,6 +40,9 @@ Setiap email dapat diubah (dikonversi) menjadi nilai-nilai fitur dan targetnya.
 Algoritma pembelajaran mesin (ML) kemudian dapat diterapkan pada email-email yang diubah menjadi nilai-nilai fitur untuk membangun model yang dapat memprediksi apakah email baru adalah spam atau bukan spam. Prediksinya berupa probabilitas, dan untuk membuat keputusan diperlukan untuk menentukan ambang batas (threshold) untuk mengklasifikasikan email sebagai spam atau bukan spam.
 
 
+Slide: https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-12-ml-vs-rulebased-systems
+
+
 
 
 
