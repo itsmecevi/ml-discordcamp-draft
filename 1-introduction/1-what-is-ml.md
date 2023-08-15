@@ -5,3 +5,8 @@ Then, the model is given new data (without the target) about cars and predicts t
 In summary, ML is a process of extracting patterns from data, which is of two types:
 * features (information about the object) and
 * target (property to predict for unseen objects).
+
+Therefore, new feature values are presented to the model, and it makes predictions from the learned patterns.
+
+====
+Bahasa Indonesia:
