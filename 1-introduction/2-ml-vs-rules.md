@@ -1,4 +1,5 @@
 __
+
 ENG:
 
 The differences between ML and Rule-Based systems is explained with the example of a spam filter.
@@ -18,4 +19,5 @@ Each email can be encoded (converted) to the values of it's features and target.
 A machine learning algorithm can then be applied to the encoded emails to build a model that can predict whether a new email is spam or not spam. The predictions are probabilities, and to make a decision it is necessary to define a threshold to classify emails as spam or not spam.
 
 __
+
 ID:
