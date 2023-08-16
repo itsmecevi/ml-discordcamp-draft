@@ -22,7 +22,7 @@ In general, ML projects require many iterations.
 
   __
 
-  # ID:
+# ID:
 
 CRISP-DM, yang merupakan singkatan dari Cross-Industry Standard Process for Data Mining, adalah model proses standar terbuka yang menggambarkan pendekatan umum yang digunakan oleh para ahli data mining. 
 Ini adalah model analitik yang paling banyak digunakan. Model ini dikonseptualisasikan pada tahun 1996 dan menjadi proyek Uni Eropa di bawah inisiatif pendanaan ESPRIT pada tahun 1997. 
