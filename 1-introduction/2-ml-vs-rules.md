@@ -1,6 +1,6 @@
 __
 
-#ENG
+# ENG
 
 The differences between ML and Rule-Based systems is explained with the example of a spam filter.
 
@@ -20,7 +20,7 @@ A machine learning algorithm can then be applied to the encoded emails to build 
 
 __
 
-#ID
+# ID
 
 Perbedaan antara sistem Pembelajaran Mesin (ML) dan sistem berbasis Aturan dijelaskan dengan contoh spam filter.
 
