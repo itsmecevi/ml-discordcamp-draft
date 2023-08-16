@@ -20,7 +20,7 @@ In general, ML projects require many iterations.
 * Learn from the feedback
 * Improve
 
-  __
+__
 
 # ID:
 
