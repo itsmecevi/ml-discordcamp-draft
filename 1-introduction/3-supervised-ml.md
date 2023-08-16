@@ -38,3 +38,6 @@ Model dapat diwakili sebagai fungsi g yang mengambil matriks X sebagai parameter
 * Perankingan (Ordinal): keluarannya adalah skor besar yang terkait dengan item-item tertentu. Ini diterapkan dalam sistem rekomendasi.
 
 Secara ringkas, PMB berkaitan dengan mengajari model dengan menunjukkan contoh-contoh berbeda, dan tujuannya adalah untuk menciptakan fungsi yang mengambil matriks fitur sebagai parameter dan membuat prediksi yang sesuai mungkin dengan target-target y.
+
+
+Slide: https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-13-supervised-machine-learning
