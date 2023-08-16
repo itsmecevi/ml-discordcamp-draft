@@ -9,7 +9,7 @@ In Supervised Machine Learning (SML) there are always labels associated with cer
 
 The model can be represented as a function g that takes the X matrix as a parameter and tries to predict values as close as possible to y targets. The obtention of the g function is what it is called training.
 
-### Types of SML problems
+**Types of SML problems**
 
 * Regression: the output is a number (car's price)
 * Classification: the output is a category (spam example).
@@ -30,7 +30,7 @@ Dalam Pembelajaran Mesin Terawasi / Supervised Machine Learning (SML), selalu ad
 
 Model dapat diwakili sebagai fungsi g yang mengambil matriks X sebagai parameter dan mencoba untuk memprediksi nilai-nilai yang sesuai dengan target y. Perolehan fungsi g itulah yang disebut pelatihan atau training.
 
-### Jenis-Jenis Masalah SML
+**Jenis-Jenis Masalah SML**
 * Regresi: keluarannya adalah angka (harga mobil)
 * Klasifikasi: keluarannya adalah kategori (contoh spam).
       * Binary: terdapat dua kategori.
