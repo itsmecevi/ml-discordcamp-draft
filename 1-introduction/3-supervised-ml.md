@@ -1,6 +1,6 @@
 __
 
-**ENG:**
+# ENG
 
 In Supervised Machine Learning (SML) there are always labels associated with certain features. The model is trained, and then it can make predictions on new features. In this way, the model is taught by certain features and targets.
 
@@ -21,7 +21,7 @@ In summary, SML is about teaching the model by showing different examples, and t
 
 __
 
-**ID:**
+# ID
 
 Dalam Pembelajaran Mesin Terawasi / Supervised Machine Learning (SML), selalu ada label yang terkait dengan fitur-fitur tertentu. Model dilatih, dan kemudian dapat membuat prediksi pada fitur-fitur baru. Dengan cara ini, model diajari oleh fitur-fitur dan target-target tertentu.
 
