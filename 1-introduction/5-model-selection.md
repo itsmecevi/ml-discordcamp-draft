@@ -44,12 +44,16 @@ Set tes dapat membantu menghindari MCP. Mendapatkan model terbaik dilakukan deng
 Dalam ilmu data dan pembelajaran mesin, membagi dataset menjadi set pelatihan, validasi, dan pengujian memiliki beberapa tujuan penting yang membantu dalam membangun dan mengevaluasi model yang andal dan kokoh. Meskipun benar bahwa set pelatihan dan pengujian sangat penting, penambahan set validasi memberikan manfaat tambahan:
 
 -Pengembangan dan Pemilihan Model: Set pelatihan digunakan untuk melatih parameter-model, sedangkan set validasi digunakan untuk menyetel hiperparameter dan membandingkan performa model yang berbeda
+
 -Mencegah Overfitting: Overfitting terjadi ketika model belajar berkinerja baik pada data pelatihan tetapi tidak bergeneralisasi dengan baik pada data baru yang belum pernah dilihat. Set validasi membantu memonitor performa model pada data yang belum pernah dilihat sebelumnya. Jika sebuah model berkinerja baik pada set pelatihan tetapi buruk pada set validasi, mungkin ada overfitting. Penyesuaian dapat dilakukan terhadap kompleksitas model atau regularisasi untuk mengurangi overfitting.
+
 -Menghindari Kebocoran Data: Kebocoran data terjadi ketika informasi dari set pengujian tanpa disengaja mempengaruhi model selama pelatihan. Tanpa set validasi terpisah, ada risiko bahwa Anda mungkin menggunakan wawasan dari set pengujian untuk menyetel model Anda, yang dapat menyebabkan estimasi performa yang terlalu optimis. Set validasi terpisah memastikan Anda tidak menggunakan informasi apa pun dari set pengujian sampai evaluasi akhir.
+
 -Penilaian Performa Tidak Bias: Set pengujian berfungsi sebagai dataset yang benar-benar independen yang belum pernah dilihat oleh model sebelumnya. Ini memberikan perkiraan kinerja model yang tidak bias. Tanpa set validasi, ada bahaya membuat keputusan tentang perbaikan model berdasarkan performanya pada set pengujian, yang mengarah pada ekspektasi yang terlalu optimis tentang performa.
+
 -Pengembangan Iteratif: Proses berulang dari pelatihan, validasi, dan pengujian memungkinkan Anda untuk membuat perbaikan bertahap pada model Anda. Anda dapat menyesuaikan arsitektur model, fitur, dan hiperparameter berdasarkan performa set validasi, lalu akhirnya mengevaluasi model Anda pada set pengujian yang tidak tersentuh.
 
-Ringkasnya, inklusi set validasi selain set pelatihan dan pengujian sangat penting untuk pengembangan model yang tepat, penyetelan hiperparameter, dan penilaian tanpa bias terhadap performa generalisasi. Ini membantu mencegah overfitting, kebocoran data, dan ekspektasi yang terlalu optimis, sehingga menghasilkan model ilmu data dan pembelajaran mesin yang lebih andal dan kokoh.
+Ringkasnya, inklusi set validasi selain set pelatihan dan pengujian sangat penting untuk pengembangan model yang tepat, penyetelan hiperparameter, dan penilaian tanpa bias terhadap performa generalisasi. Ini membantu mencegah overfitting, kebocoran data, dan ekspektasi yang terlalu optimis, sehingga menghasilkan model ilmu data dan pembelajaran mesin yang lebih andal dan kokoh (robust).
 
 1. Bagi dataset menjadi pelatihan, validasi, dan tes. Misalnya, masing-masing 60%, 20%, dan 20%
 2. Latih model-model
