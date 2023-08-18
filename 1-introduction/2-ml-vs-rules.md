@@ -8,15 +8,18 @@ Sistem Berbasis Aturan tradisional didasarkan pada serangkaian karakteristik (ka
 
 ML dapat digunakan untuk memecahkan masalah ini dengan langkah-langkah berikut:
 
-1. Dapatkan data (Get data)
+1. Dapatkan data (Get data):
+   
 Email dari folder spam dan kotak masuk pengguna memberikan contoh spam dan bukan spam.
 
-2. Tentukan dan hitung fitur/karakter (Define and calculate features)
+3. Tentukan dan hitung fitur/karakter (Define and calculate features):
+   
 Aturan/karakteristik dari sistem berbasis aturan dapat digunakan sebagai titik awal untuk mendefinisikan fitur-fitur bagi model ML. Nilai variabel target untuk setiap email dapat ditentukan berdasarkan dari mana email tersebut diperoleh (folder spam atau kotak masuk).
 
 Setiap email dapat diubah (dikonversi) menjadi nilai-nilai fitur dan targetnya.
 
-3. Latih dan gunakan model (Train and use the model)
+3. Latih dan gunakan model (Train and use the model):
+   
 Algoritma pembelajaran mesin (ML) kemudian dapat diterapkan pada email-email yang diubah menjadi nilai-nilai fitur untuk membangun model yang dapat memprediksi apakah email baru adalah spam atau bukan spam. Prediksinya berupa probabilitas, dan untuk membuat keputusan diperlukan untuk menentukan ambang batas (threshold) untuk mengklasifikasikan email sebagai spam atau bukan spam.
 
 
