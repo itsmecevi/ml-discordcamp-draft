@@ -12,11 +12,9 @@ ML dapat digunakan untuk memecahkan masalah ini dengan langkah-langkah berikut:
    
 Email dari folder spam dan kotak masuk pengguna memberikan contoh spam dan bukan spam.
 
-3. Tentukan dan hitung fitur/karakter (Define and calculate features):
+2. Tentukan dan hitung fitur/karakter (Define and calculate features):
    
-Aturan/karakteristik dari sistem berbasis aturan dapat digunakan sebagai titik awal untuk mendefinisikan fitur-fitur bagi model ML. Nilai variabel target untuk setiap email dapat ditentukan berdasarkan dari mana email tersebut diperoleh (folder spam atau kotak masuk).
-
-Setiap email dapat diubah (dikonversi) menjadi nilai-nilai fitur dan targetnya.
+Aturan/karakteristik dari sistem berbasis aturan dapat digunakan sebagai titik awal untuk mendefinisikan fitur-fitur bagi model ML. Nilai variabel target untuk setiap email dapat ditentukan berdasarkan dari mana email tersebut diperoleh (folder spam atau kotak masuk). Setiap email dapat diubah (dikonversi) menjadi nilai-nilai fitur dan targetnya.
 
 3. Latih dan gunakan model (Train and use the model):
    
