@@ -13,6 +13,7 @@ ML dapat digunakan untuk memecahkan masalah pada studi email spam dengan langkah
 2. Tentukan dan hitung fitur/karakter (Define and calculate features):
    
 =>Aturan/karakteristik dari sistem berbasis aturan dapat digunakan sebagai titik awal untuk mendefinisikan fitur-fitur bagi model ML. 
+
 =>Nilai variabel target untuk setiap email dapat ditentukan berdasarkan dari mana email tersebut diperoleh (folder spam atau kotak masuk). Setiap email dapat diubah (dikonversi) menjadi nilai-nilai fitur dan targetnya.
 
 3. Latih dan gunakan model (Train and use the model):
