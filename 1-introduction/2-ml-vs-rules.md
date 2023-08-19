@@ -2,16 +2,15 @@ __
 
 # ID
 
-Perbedaan antara sistem Pembelajaran Mesin (ML) dan sistem berbasis Aturan dijelaskan dengan contoh spam filter.
+* Rules: Jika A>90, maka cumlaude, input=>rules=>output
+* ML: input dan output=> rules
+* Hasil dari rules adalah sebuah output, sedangkan hasil dari ML adalah rules, dimana rules tersebut untuk memahami pola/tren dari data
 
-Sistem Berbasis Aturan tradisional didasarkan pada serangkaian karakteristik (kata kunci, panjang email, dll.) yang mengidentifikasi sebuah email sebagai spam atau bukan. Karena email spam terus berubah seiring waktu, sistem ini perlu ditingkatkan yang membuat prosesnya sulit seiring berkembangnya jenis spam dan karakteristiknya.
+Contoh email spam detection:Sistem Berbasis Aturan tradisional didasarkan pada serangkaian karakteristik (kata kunci, panjang email, dll.) yang mengidentifikasi sebuah email sebagai spam atau bukan. Karena email spam terus berubah seiring waktu, sistem ini perlu ditingkatkan yang membuat prosesnya sulit seiring berkembangnya jenis spam dan karakteristiknya.
 
 ML dapat digunakan untuk memecahkan masalah ini dengan langkah-langkah berikut:
 
-1. Dapatkan data (Get data):
-   
-Email dari folder spam dan kotak masuk pengguna memberikan contoh spam dan bukan spam.
-
+1. Dapatkan data (Get data): Email dari folder spam dan kotak masuk pengguna memberikan contoh spam dan bukan spam.
 2. Tentukan dan hitung fitur/karakter (Define and calculate features):
    
 Aturan/karakteristik dari sistem berbasis aturan dapat digunakan sebagai titik awal untuk mendefinisikan fitur-fitur bagi model ML. Nilai variabel target untuk setiap email dapat ditentukan berdasarkan dari mana email tersebut diperoleh (folder spam atau kotak masuk). Setiap email dapat diubah (dikonversi) menjadi nilai-nilai fitur dan targetnya.
