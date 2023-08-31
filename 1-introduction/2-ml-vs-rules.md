@@ -24,9 +24,12 @@ Features:
 * Sender "promotions@online.com" (Yes/No)
 
 
-| Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" |
-|----------------------|---------------------|------------------------------|
-|        Yes           |        Yes          |             Yes              |
+| Index | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" |
+|-------|----------------------|---------------------|------------------------------|
+|   1   |        Yes           |        Yes          |             Yes              |
+|   2   |        No            |        Yes          |             No               |
+|   3   |        Yes           |        No           |             Yes              |
+
 
 by: itsmecevi.github.io
 
