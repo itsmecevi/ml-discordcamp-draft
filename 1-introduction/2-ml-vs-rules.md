@@ -31,6 +31,7 @@ Features:
 |   3   |        Yes           |        No           |             Yes              |     Not Spam |
 
 
+> 'Start with rules and then use these rules as features'
 
 by: itsmecevi.github.io
 
