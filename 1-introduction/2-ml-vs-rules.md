@@ -37,6 +37,14 @@ Features:
 |   3   |        1          |        0           |             1              |     0 |
 
 
+| Index | Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam | Probability |
+|-------|-------|----------------------|---------------------|------------------------------|--------------|-------------|
+|   1   |   1   |          1           |          1          |              1               |      0       |     0.6   |
+|   2   |   0   |          0           |          1          |              0               |      1       |     0.8    |
+|   3   |   1   |          1           |          0          |              1               |      0       |     0.4    |
+
+
+
 > **Start with rules and then use these rules as features**
 
 by: itsmecevi.github.io
