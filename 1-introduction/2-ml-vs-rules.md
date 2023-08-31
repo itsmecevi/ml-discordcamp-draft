@@ -24,11 +24,12 @@ Features:
 * Sender "promotions@online.com" (Yes/No)
 
 
-| Index | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" |
-|-------|----------------------|---------------------|------------------------------|
-|   1   |        Yes           |        Yes          |             Yes              |
-|   2   |        No            |        Yes          |             No               |
-|   3   |        Yes           |        No           |             Yes              |
+| Index | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam |
+|-------|----------------------|---------------------|------------------------------|---------------|
+|   1   |        Yes           |        Yes          |             Yes              |     Not Spam |
+|   2   |        No            |        Yes          |             No               |      Spam    |
+|   3   |        Yes           |        No           |             Yes              |     Not Spam |
+
 
 
 by: itsmecevi.github.io
