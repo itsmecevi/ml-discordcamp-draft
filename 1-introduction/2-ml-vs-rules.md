@@ -47,6 +47,9 @@ Features:
 
 > **Start with rules and then use these rules as features**
 
+* Data + Code => Software => Outcome
+* Data + Outcome => ML => Model
+
 by: itsmecevi.github.io
 
 
