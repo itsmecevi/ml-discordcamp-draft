@@ -18,6 +18,16 @@ ML:
 2. Define & Calculated Features
 3. Train & Use the Model
 
+Features:
+* Length of tittle> 10 (Yes/No)
+* Lenghth of boday> 10 (Yes/No)
+* Sender "promotions@online.com" (Yes/No)
+
+
+| Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" |
+|----------------------|---------------------|------------------------------|
+|        Yes           |        Yes          |             Yes              |
+
 by: itsmecevi.github.io
 
 
