@@ -2,12 +2,18 @@ __
 
 # ID
 
-**Model Mana yang Harus Dipilih?**
+**Which Model?**
 
-* Regresi Logistik
-* Pohon Keputusan (Decision Tree)
-* Jaringan Saraf Tiruan (Neural Network)
-* Atau banyak model lainnya
+* Logistic regression
+* Decision Tree
+* Neural network
+* etc
+
+* Data training (60%)
+* Data validation (data testing 1: 20%)
+* Data testing (data testing 2: 20%)
+
+* Multi comparison problem: the issue of conducting multiple statistical tests or comparisons on a dataset
 
 Dataset validasi tidak digunakan dalam pelatihan. Terdapat matriks fitur dan vektor y untuk kedua dataset pelatihan dan validasi. 
 Model disesuaikan dengan data pelatihan, dan digunakan untuk memprediksi nilai y dari matriks fitur validasi.
