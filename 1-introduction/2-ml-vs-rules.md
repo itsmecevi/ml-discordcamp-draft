@@ -30,8 +30,8 @@ Features:
 |   2   |        No            |        Yes          |             No               |      Spam    |
 |   3   |        Yes           |        No           |             Yes              |     Not Spam |
 
->
->
+<br>
+<br>
 
 | Index Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam |
 |-------|----------------------|---------------------|------------------------------|---------------|
@@ -39,7 +39,8 @@ Features:
 |   2   |        0          |        1         |             0               |      1    |
 |   3   |        1          |        0           |             1              |     0 |
 
-
+<br>
+<br>
 
 | Index | Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Probability| Spam/Not Spam  |
 |-------|-------|----------------------|---------------------|------------------------------|--------------|-------------|
@@ -50,10 +51,12 @@ Features:
 
 
 > **Start with rules and then use these rules as features**
-
+<br>
+<br>
 * Data + Code => Software => Outcome
 * Data + Outcome => ML => Model
-
+<br>
+<br>
 by: itsmecevi.github.io
 
 
