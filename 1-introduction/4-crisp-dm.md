@@ -2,13 +2,24 @@ __
 
 # ID:
 
-* CRISP-DM (Cross-industry standard process for data mining)
+* CRISP-DM (Cross-industry standard process for data mining):
+   * Business Understanding
+   * Data Understanding
+   * Data Preparation
+   * Modeling
+   * Evaluation
+   * Deployment
+
 * From problem understanding to deployment
 * ML Project:
   * Understand the problem
   * Collect the data
   * Train the model
   * Use it
+
+
+
+
 
 CRISP-DM, yang merupakan singkatan dari Cross-Industry Standard Process for Data Mining, adalah model proses standar terbuka yang menggambarkan pendekatan umum yang digunakan oleh para ahli data mining. 
 Ini adalah model analitik yang paling banyak digunakan. Model ini dikonseptualisasikan pada tahun 1996 dan menjadi proyek Uni Eropa di bawah inisiatif pendanaan ESPRIT pada tahun 1997. 
