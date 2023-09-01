@@ -59,7 +59,7 @@ Threshold:
 
 * Data + Code => Software => Outcome
 * Data + Outcome => ML => Model
-* 
+  
 <br>
 <br>
 by: itsmecevi.github.io
