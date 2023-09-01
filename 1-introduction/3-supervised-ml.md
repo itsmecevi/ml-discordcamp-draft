@@ -6,10 +6,11 @@ __
 * SML: Classification, Regression, Ranking
 * Contoh:
 
-  | Index | Tahun Produksi | Merk      | Speedometer | Warna   | Harga   |
+| Index | Tahun Produksi | Merk      | Speedometer | Warna   | Harga   |
 |-------|----------------|-----------|-------------|---------|---------|
 | 1     | 2020           | Toyota    | 30,000 km   | Hitam   | $25,000 |
 | 2     | 2018           | Honda     | 45,000 km   | Putih   | $20,500 |
+
 
 
 * Matriks Fitur (X): terdiri dari pengamatan atau objek (baris) dan fitur-fitur (kolom).
