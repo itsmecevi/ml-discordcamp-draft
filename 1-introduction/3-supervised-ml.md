@@ -19,5 +19,5 @@ __
          - Multiclass: output > 2 categori
     
   * Regresi: output angka (harga mobil)
-  * Perankingan (Ordinal): output skor dan biasanya digunakan dalam sistem rekomendasi
+  * Perankingan (Ordinal Classificaton dan Ordinal Regression): output skor dan biasanya digunakan dalam sistem rekomendasi
 
