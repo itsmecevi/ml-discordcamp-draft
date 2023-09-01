@@ -30,11 +30,15 @@ Features:
 |   2   |        No            |        Yes          |             No               |      Spam    |
 |   3   |        Yes           |        No           |             Yes              |     Not Spam |
 
+>
+>
+
 | Index Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam |
 |-------|----------------------|---------------------|------------------------------|---------------|
 |   1   |        1          |        1         |             1              |     0 |
 |   2   |        0          |        1         |             0               |      1    |
 |   3   |        1          |        0           |             1              |     0 |
+
 
 
 | Index | Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Probability| Spam/Not Spam  |
