@@ -16,8 +16,17 @@ __
   * Collect the data
   * Train the model
   * Use it
+ 
+* Business Understanding:
+    * Our user complain about spam
+    * Analyze to what extent it is a problem
+    * Will ML help?
+    * If not: propose an alternative solution
 
-
+* Define the goal:
+-Reduce the amount of spam messages, or
+-Reduce the amount of complains about spam
+-The goal has to be measurable: reduce the amount of spam by 50%
 
 
 
