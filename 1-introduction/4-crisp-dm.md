@@ -61,18 +61,14 @@ __
   * Stop working
   * Deploy
 
-Kadang, berjalan bersamaan Evalution + Deployment
+Kadang, berjalan bersamaan Evalution + Deployment:
+
 -Online evaluation: feedback of user
+
 -Iterative process
 
 **Iterasi:**
 
 * Mulai dengan yang sederhana
-* Belajar dari umpan balik
+* Belajar dari umpan balik (feedback)
 * Meningkatkan segala aspek
-
-  Slide: https://www.slideshare.net/AlexeyGrigorev/ml-zoomcamp-14-crispdm
-
-
-
-
