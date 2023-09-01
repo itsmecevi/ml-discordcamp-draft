@@ -67,7 +67,7 @@ Kadang, berjalan bersamaan [**Evalution + Deployment**]:
 
 -Iterative process
 
-**Iterasi:**
+**Iterasi: ML project require many iterations**
 
 * Mulai dengan yang sederhana
 * Belajar dari umpan balik (feedback)
