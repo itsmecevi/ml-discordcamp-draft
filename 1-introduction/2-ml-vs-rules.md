@@ -32,6 +32,7 @@ Features:
 <br>
 <br>
 Classification: 
+
 | Index Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam |
 |-------|----------------------|---------------------|------------------------------|---------------|
 |   1   |        1          |        1         |             1              |     0 |
