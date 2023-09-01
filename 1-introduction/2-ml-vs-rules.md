@@ -23,7 +23,6 @@ Features:
 * Lenghth of boday> 10 (Yes/No)
 * Sender "promotions@online.com" (Yes/No)
 
-
 | Index Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam |
 |-------|----------------------|---------------------|------------------------------|---------------|
 |   1   |        Yes           |        Yes          |             Yes              |     Not Spam |
@@ -32,7 +31,7 @@ Features:
 
 <br>
 <br>
-
+Classification: 
 | Index Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Spam/Not Spam |
 |-------|----------------------|---------------------|------------------------------|---------------|
 |   1   |        1          |        1         |             1              |     0 |
@@ -42,19 +41,24 @@ Features:
 <br>
 <br>
 
+Threshold:
+
 | Index | Email | Length of Title > 10 | Length of Body > 10 | Sender "promotions@online.com" | Probability| Spam/Not Spam  |
 |-------|-------|----------------------|---------------------|------------------------------|--------------|-------------|
 |   1   |   1   |          1           |          1          |              1               |      0.6     |     0   |
 |   2   |   0   |          0           |          1          |              0               |      0.8      |     1    |
 |   3   |   1   |          1           |          0          |              1               |      0.4       |     0    |
 
-
+<br>
+<br>
 
 > **Start with rules and then use these rules as features**
 <br>
 <br>
+
 * Data + Code => Software => Outcome
 * Data + Outcome => ML => Model
+* 
 <br>
 <br>
 by: itsmecevi.github.io
