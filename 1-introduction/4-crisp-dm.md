@@ -17,7 +17,7 @@ __
   * Train the model
   * Use it
  
-* [Business Understanding]:
+* [**Business Understanding**]:
     * Our user complain about spam
     * Analyze to what extent it is a problem
     * Will ML help?
@@ -28,8 +28,16 @@ __
         * The goal has to be measurable: reduce the amount of spam by 50%
  
 
-* Define the goal:
-  * 
+* [**Data Understanding**]:
+  * We have a report spam button
+  * Is the data behind this button good enough?
+  * Is it realiable?
+  * Do we track it correctly?
+  * Is the dataset large enough?
+  * Do we need to get more data?
+  * Iterative process
+
+
   * 
   * 
 
