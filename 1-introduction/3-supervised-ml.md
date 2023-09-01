@@ -2,7 +2,15 @@ __
 
 # ID
 
-Dalam Pembelajaran Mesin Terawasi / Supervised Machine Learning (SML), selalu ada label yang terkait dengan fitur-fitur tertentu. Model dilatih, dan kemudian dapat membuat prediksi pada fitur-fitur baru. Dengan cara ini, model diajari oleh fitur-fitur dan target-target tertentu.
+* Supervised Machine Learning (SML): Data + Output => Model
+* SML: Classification, Regression, Ranking
+* Contoh:
+
+  | Index | Tahun Produksi | Merk      | Speedometer | Warna   | Harga   |
+|-------|----------------|-----------|-------------|---------|---------|
+| 1     | 2020           | Toyota    | 30,000 km   | Hitam   | $25,000 |
+| 2     | 2018           | Honda     | 45,000 km   | Putih   | $20,500 |
+
 
 * Matriks Fitur (X): terdiri dari pengamatan atau objek (baris) dan fitur-fitur (kolom).
 * Variabel Target (y): vektor dengan informasi target yang ingin kita prediksi. Untuk setiap baris X, terdapat nilai di y.
