@@ -9,6 +9,7 @@ __
 * Neural network
 * etc
 
+**Data Split:**
 * Data training (60%)
 * Data validation (data testing 1: 20%)
 * Data testing (data testing 2: 20%)
