@@ -17,7 +17,7 @@ __
   * Train the model
   * Use it
  
-* [**Business Understanding**]:
+* [**1-Business Understanding**]:
     * Our user complain about spam
     * Analyze to what extent it is a problem
     * Will ML help?
@@ -28,7 +28,7 @@ __
         * The goal has to be measurable: reduce the amount of spam by 50%
  
 
-* [**Data Understanding**]:
+* [**2-Data Understanding**]:
   * We have a report spam button
   * Is the data behind this button good enough?
   * Is it realiable?
@@ -38,25 +38,25 @@ __
   * Iterative process
 
 
-* [**Data Preparation**]
+* [**3-Data Preparation**]
   * Clean the data
   * Build the pipelines (Workflow)
   * Convert into tabular form
 
 
-* [**Modeling**]
+* [**4-Modeling**]
   * Logistic regression
   * Decision tree
   * Neural network
   * etc
   * Iterative process
  
-* [**Evaluation**]
+* [**5-Evaluation**]
   * Have we reached the goal?
   * How much?
   * Good enough?
  
-* [**Deployment**]
+* [**6-Deployment**]
   * Go back and adjust the goal
   * Stop working
   * Deploy
