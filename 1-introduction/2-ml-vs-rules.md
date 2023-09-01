@@ -29,7 +29,7 @@ Features:
 |   2   |        No            |        Yes          |             No               |      Spam    |
 |   3   |        Yes           |        No           |             Yes              |     Not Spam |
 
-<br>
+
 <br>
 Classification: 
 
@@ -39,7 +39,7 @@ Classification:
 |   2   |        0          |        1         |             0               |      1    |
 |   3   |        1          |        0           |             1              |     0 |
 
-<br>
+
 <br>
 
 Threshold:
@@ -50,17 +50,17 @@ Threshold:
 |   2   |   0   |          0           |          1          |              0               |      0.8      |     1    |
 |   3   |   1   |          1           |          0          |              1               |      0.4       |     0    |
 
-<br>
+
 <br>
 
 > **Start with rules and then use these rules as features**
-<br>
+
 <br>
 
 * Data + Code => Software => Outcome
 * Data + Outcome => ML => Model
   
-<br>
+
 <br>
 by: itsmecevi.github.io
 
