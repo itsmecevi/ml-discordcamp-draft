@@ -14,6 +14,7 @@ __
 * Data validation (data testing 1: 20%)
 * Data testing (data testing 2: 20%)
 
+**MCP:**
 * Multiple comparisons problem (MCP): just by chance one model can be lucky and obtain good predictions because all of them are probabilistic.
 * The test set can help to avoid the MCP. Obtaining the best model is done with the training and validation datasets, while the test dataset is used for assuring that the proposed best model is the best.
 
