@@ -15,9 +15,9 @@ __
 * SML:
   * Classification
     
-         - Binary: 2 categori
-         - Multiclass: lebih dari 2 categori
+         - Binary: output 2 categori
+         - Multiclass: output > 2 categori
     
-  * Regresi: outputnya adalah angka (harga mobil)
-  * Perankingan (Ordinal): keluarannya adalah skor besar yang terkait dengan item-item tertentu. Ini diterapkan dalam sistem rekomendasi.
+  * Regresi: output angka (harga mobil)
+  * Perankingan (Ordinal): output skor dan biasanya digunakan dalam sistem rekomendasi
 
