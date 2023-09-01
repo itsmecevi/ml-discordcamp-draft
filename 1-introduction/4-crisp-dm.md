@@ -61,7 +61,7 @@ __
   * Stop working
   * Deploy
 
-Kadang, berjalan bersamaan Evalution + Deployment:
+Kadang, berjalan bersamaan [**Evalution + Deployment**]:
 
 -Online evaluation: feedback of user
 
@@ -72,3 +72,5 @@ Kadang, berjalan bersamaan Evalution + Deployment:
 * Mulai dengan yang sederhana
 * Belajar dari umpan balik (feedback)
 * Meningkatkan segala aspek
+
+by: itsmecevi.github.io
