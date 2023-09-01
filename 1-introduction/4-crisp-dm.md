@@ -38,8 +38,10 @@ __
   * Iterative process
 
 
-  * 
-  * 
+* [**Data Preparation**]
+  * Clean the data
+  * Build the pipelines (Workflow)
+  * Convert into tabular form
 
 
 
