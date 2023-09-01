@@ -67,10 +67,10 @@ Kadang, berjalan bersamaan [**Evalution + Deployment**]:
 
 -Iterative process
 
-**Iterasi: ML project require many iterations**
+**ML project require many iterations**
 
-* Mulai dengan yang sederhana
-* Belajar dari umpan balik (feedback)
-* Meningkatkan segala aspek
+* Start simple
+* Learn from feedback
+* Improve
 
 by: itsmecevi.github.io
