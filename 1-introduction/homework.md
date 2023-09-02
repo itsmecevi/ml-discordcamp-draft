@@ -1,14 +1,10 @@
-## Session #1 Homework
-
-> **Solution**:
-> * [Notebook](homework_1.ipynb)
-> * [Video](https://www.youtube.com/watch?v=J0Ht4V9mIRI&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+## Pertemuan #1 Homework
 
 
-### Set up the environment
+### Question 0
 
-You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you can the instructions from
-[06-environment.md](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/01-intro/06-environment.md).
+You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. Using a Google Colab.
+How to doing it in Google Colab. 
 
 ### Question 1
 
@@ -100,25 +96,4 @@ Has it changed?
 7. Create an array `y` with values `[1100, 800, 750, 850, 1300, 1000, 1000, 1300, 800]`.
 8. Multiply the inverse of `XTX` with the transpose of `X`, and then multiply the result by `y`. Call the result `w`.
 9. What's the value of the first element of `w`?
-
-> **Note**: You just implemented linear regression. We'll talk about it in the next lesson.
-
-- -0.0723
-- 4.5949
-- 31.6537
-- 63.5643
-
-
-## Submit the results
-
-* Submit your results here: https://forms.gle/vLp3mvtnrjJxCZx66
-* You can submit your solution multiple times. In this case, only the last submission will be used 
-* If your answer doesn't match options exactly, select the closest one
-
-
-## Deadline
-
-The deadline for submitting is 12 September 2022 (Monday), 23:00 CEST (Berlin time).
-
-After that, the form will be closed.
 
