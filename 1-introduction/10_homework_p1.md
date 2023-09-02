@@ -2,15 +2,15 @@ __
 
 # ID
 
-# Pertemuan-1: Homework
+### Pertemuan-1: Homework
 
 
-### Question 0
+* Question 0
 
 You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. Using a Google Colab.
 How to doing it in Google Colab. 
 
-### Question 1
+* Question 1
 
 What's the version of NumPy that you installed? 
 
@@ -35,7 +35,7 @@ Or just open it with your browser and click "Save as...".
 
 Now read it with Pandas.
 
-### Question 2
+* Question 2
 
 How many records are in the dataset?
 
@@ -46,7 +46,7 @@ Here you need to specify the number of rows.
 - 11914
 - 18990
 
-### Question 3
+* Question 3
 
 Who are the most frequent car manufacturers (top-3) according to the dataset?
 
@@ -57,7 +57,7 @@ Who are the most frequent car manufacturers (top-3) according to the dataset?
 
 > **Note**: You should rely on "Make" column in this question.
 
-### Question 4
+* Question 4
 
 What's the number of unique Audi car models in the dataset?
 
@@ -66,7 +66,7 @@ What's the number of unique Audi car models in the dataset?
 - 26
 - 34
 
-### Question 5
+* Question 5
 
 How many columns in the dataset have missing values?
 
@@ -75,7 +75,7 @@ How many columns in the dataset have missing values?
 - 7
 - 8
 
-### Question 6
+* Question 6
 
 1. Find the median value of "Engine Cylinders" column in the dataset.
 2. Next, calculate the most frequent value of the same "Engine Cylinders".
@@ -89,7 +89,7 @@ Has it changed?
 - Yes
 - No
 
-### Question 7
+* Question 7
 
 1. Select all the "Lotus" cars from the dataset.
 2. Select only columns "Engine HP", "Engine Cylinders".
