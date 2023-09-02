@@ -20,7 +20,7 @@ You can get the version information using the `__version__` field:
 np.__version__
 ```
 
-### Getting the data 
+* Getting the data 
 
 For this homework, we'll use the Car price dataset. Download it from 
 [here](https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv).
