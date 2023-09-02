@@ -14,4 +14,6 @@ __
 * Regularization
 * Using the model
 
+**[Full Code: Car Price Project]()**
+
 by: itsmecevi.github.io
