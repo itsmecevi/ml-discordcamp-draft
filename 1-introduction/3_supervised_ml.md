@@ -18,6 +18,8 @@ __
          - Binary: output 2 categori
          - Multiclass: output > 2 categori
     
-  * Regresi: output angka (harga mobil)
+  * Regression: output angka (harga mobil)
   * Perankingan (Ordinal Classificaton dan Ordinal Regression): output skor dan biasanya digunakan dalam sistem rekomendasi
+ 
+by: itsmecevi.github.io
 
