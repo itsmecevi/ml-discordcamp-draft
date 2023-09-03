@@ -1,21 +1,15 @@
-## Homework
+__
 
-> **Solution**:
-> * [Notebook](homework_2.ipynb)
-> * [Video](https://www.youtube.com/watch?v=mWJwXyibqW8&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+# ID
 
-> Note: sometimes your answer doesn't match one of the options exactly. That's fine. 
-Select the option that's closest to your solution.
+### Pertemuan-2: Homework
+
 
 ### Dataset
 
 In this homework, we will use the California Housing Prices from [Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
 
 Here's a wget-able [link](https://raw.githubusercontent.com/alexeygrigorev/datasets/master/housing.csv):
-
-```bash
-wget https://raw.githubusercontent.com/alexeygrigorev/datasets/master/housing.csv
-```
 
 The goal of this homework is to create a regression model for predicting housing prices (column `'median_house_value'`).
 
@@ -128,12 +122,3 @@ Options:
 - 0.135
 - 0.450
 - 0.245
-
-## Submit the results
-- Submit your results here: https://forms.gle/WCVb4KMNsgbkuJtr6
-- If your answer doesn't match options exactly, select the closest one.
-- You can submit your solution multiple times. In this case, only the last submission will be used
-
-## Deadline
-
-The deadline for submitting is, 19 September 2022, 23:00 CET. After that, the form will be closed.
