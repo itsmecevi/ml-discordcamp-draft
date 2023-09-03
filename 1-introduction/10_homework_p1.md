@@ -23,12 +23,12 @@ np.__version__
 * Getting the data 
 
 For this homework, we'll use the Car price dataset. Download it from 
-[here](https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv).
+[here](https://raw.githubusercontent.com/itsmecevi/ml-discordcamp/main/2-regression/cardataset.csv).
 
 You can do it with wget:
 
 ```bash
-wget https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-02-car-price/data.csv
+wget https://raw.githubusercontent.com/itsmecevi/ml-discordcamp/main/2-regression/cardataset.csv
 ```
 
 Or just open it with your browser and click "Save as...".
