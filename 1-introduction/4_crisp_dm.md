@@ -41,7 +41,7 @@ __
 * [**3-Data Preparation**]
   * Clean the data
   * Build the pipelines (Workflow)
-  * Convert into tabular form
+  * Convert into tabular form (dataframe)
 
 
 * [**4-Modeling**]
