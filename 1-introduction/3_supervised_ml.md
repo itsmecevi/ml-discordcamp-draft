@@ -3,7 +3,7 @@ __
 # ID
 
 * Supervised Machine Learning (SML): Data + Output => Model
-* SML: Classification, Regression, Ranking
+* SML: Classification, Regression, Ranking (Ordinal Classification dan Regression)
 * Contoh:
 
 | Index | Tahun Produksi | Merk      | Speedometer | Warna   | Harga   |
