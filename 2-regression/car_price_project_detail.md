@@ -15,6 +15,6 @@ __
 * Regularization
 * Using the model
 
-**[Full Code: Car Price Prediction Project]()**
+**[Full Code: Car Price Prediction Project](https://colab.research.google.com/drive/1xuIwMU_D2Gg-t7t2UL8TyOdZh5nKWXIV?usp=sharing)**
 
 by: itsmecevi.github.io
