@@ -12,3 +12,4 @@
 ### Code:
 
 * [Arithmetic and Variable](https://colab.research.google.com/drive/1goYkfMay2Eez9pvgsVTO5uTUDKV-ys9X?usp=sharing)
+* [Function](https://colab.research.google.com/drive/1ksPrNI4dNLf9IJ8CndJk9V49sW8pboEP?usp=sharing)
