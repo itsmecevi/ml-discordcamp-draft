@@ -3,7 +3,7 @@ __
 # ID
 
 * Rule-based: Data + Rule => Output, Jika A>90, maka cumlaude
-* ML: Data + Output=> Rule, Data=>Rule=>Output
+* ML: Data + Output=> Rule, New Data=>Rule=>Output
 * Hasil dari rules adalah sebuah output, sedangkan hasil dari ML adalah rules, dimana rules tersebut untuk memahami pola / tren dari data
 * Contohnya misal membedakan email spam / non-spam
 
