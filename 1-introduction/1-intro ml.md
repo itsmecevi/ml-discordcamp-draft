@@ -4,7 +4,7 @@ __
 
 * Machine Learning adalah sebuah konsep Prediksi / Forecasting
 * ML belajar dari data, yang direpresentasikan sebagai fitur/variabel dan target/goals
-* F(x, y,z)=G
+* F(x, y, z)=G
 * Contoh ML=> fitur: warna mobil, tahun produksi, kapasitas penumpang, dan merk untuk memprediksi harga mobil (target)
 
 ML adalah proses mengekstrak pola / pattern dari data, yang terdiri dari:

@@ -11,7 +11,7 @@ __
 | 1     | 2020           | Toyota    | 30,000 km   | Hitam   | $25,000 |
 | 2     | 2018           | Honda     | 45,000 km   | Putih   | $20,500 |
 
-* SML: F(x,y,z,a)=G, dimana x,y,z,a adalah sebuah feature dan G adalah target
+* SML: F(x, y, z, a)=G, dimana x,y,z,a adalah sebuah feature dan G adalah target
 * SML:
   * Classification
     
