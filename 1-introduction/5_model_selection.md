@@ -9,6 +9,8 @@ __
 * Neural network
 * etc
 
+  **Extras**: [ML Mindmap](https://github.com/itsmecevi/ml-mindmap/tree/master)
+
 **Data Split:**
 * Data training (60%)
 * Data validation (data testing 1: 20%)
