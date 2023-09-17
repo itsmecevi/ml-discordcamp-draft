@@ -9,3 +9,7 @@ __
 * R-squared (R2) Score: R2 measures the proportion of the variance in the target variable that is explained by the model. It ranges from 0 to 1, where a higher value indicates a better fit.
 
 
+**[7. Evaluation (Regression): Car Price Prediction Project](https://colab.research.google.com/drive/1xuIwMU_D2Gg-t7t2UL8TyOdZh5nKWXIV?usp=sharing)**
+
+by: itsmecevi.github.io
+
