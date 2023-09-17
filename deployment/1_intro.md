@@ -8,4 +8,4 @@ To deploy the model in a server there are some steps:
 * Make the API endpoints in order to request predictions. (session 03-flask-intro and 04-flask-deployment)
 * Some other server deployment options (sessions 5 to 9)
 
-  by: itsmecevi.github.io
+by: itsmecevi.github.io
