@@ -31,3 +31,7 @@ __
 
 **ROC Curva:** The Receiver Operating Characteristic (ROC) curve is a graphical representation commonly used to assess the performance of binary classification models. It helps visualize the trade-off between the true positive rate (sensitivity) and the false positive rate (1 - specificity) across different decision thresholds for a given model.
 
+**[7. Evaluation (Classification): Customer Churn Prediction Project](https://colab.research.google.com/drive/1Z773XC_nY0OvLsKBjqOBXyORRlJLULtb?usp=sharing)**
+
+by: itsmecevi.github.io
+
