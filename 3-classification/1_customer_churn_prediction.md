@@ -13,7 +13,7 @@ __
 * Split dataset (train, val, test)
 * Linear regression
 
-**[Full Code: Customer Churn Prediction Project]()**
+**[Full Code: Customer Churn Prediction Project](https://colab.research.google.com/drive/1Z773XC_nY0OvLsKBjqOBXyORRlJLULtb?usp=sharing)**
 
 by: itsmecevi.github.io
 
