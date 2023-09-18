@@ -12,8 +12,12 @@ __
 * Customization
 
 **30 Days of Streamlit:**
-Day 1: Setting up a local development environment
-Day 2: Building your first Streamlit app
+
+* Day 1: Setting up a local development environment
+* Day 2: Building your first Streamlit app
+* Day 3: st.button
+* Day 4: XXX
+* Day 5: st.write
 
 
 by: itsmecevi.github.io 
