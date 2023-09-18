@@ -11,13 +11,13 @@ __
 * Sharing and Deployment
 * Customization
 
-**30 Days of Streamlit:**
+**30 Big Point of Streamlit:**
 
-* Day 1: Setting up a local development environment
-* Day 2: Building your first Streamlit app
-* Day 3: st.button
-* Day 4: XXX
-* Day 5: st.write
+* Point 1: Setting up a local development environment
+* Point 2: Building your first Streamlit app
+* Point 3: st.button
+* Point 4: XXX
+* Point 5: st.write
 
 
 by: itsmecevi.github.io 
