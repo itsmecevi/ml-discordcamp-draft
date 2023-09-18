@@ -11,4 +11,9 @@ __
 * Sharing and Deployment
 * Customization
 
+**30 Days of Streamlit:**
+Day 1: Setting up a local development environment
+Day 2: Building your first Streamlit app
+
+
 by: itsmecevi.github.io 
