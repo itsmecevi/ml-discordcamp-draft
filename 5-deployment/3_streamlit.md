@@ -11,13 +11,8 @@ __
 * Sharing and Deployment
 * Customization
 
-**30 Big Point of Streamlit:**
+**Streamlit:** https://github.com/itsmecevi/streamlit/tree/main
 
-* Point 1: Setting up a local development environment
-* Point 2: Building your first Streamlit app
-* Point 3: st.button
-* Point 4: XXX
-* Point 5: st.write
 
 
 by: itsmecevi.github.io 
