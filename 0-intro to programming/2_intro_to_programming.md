@@ -18,3 +18,8 @@
 * [Intro to List](https://colab.research.google.com/drive/1eQv4h1vpQBUeU8Ao530JUqSX5scQ3geM?usp=sharing)
 
 ### Intro to Programming Certification: https://www.kaggle.com/
+* Arithmetic and Variable
+* Function
+* Data Type
+* Condition and Conditional Statement
+* Intro to List
