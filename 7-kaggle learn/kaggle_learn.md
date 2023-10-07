@@ -1,4 +1,9 @@
 1. Intro to Programming
+   * Arithmetic and Variables
+   * Functions
+   * Data Types
+   * Conditions and Conditional Statements
+   * Intro to Lists
 2. Python
 3. Pandas
 4. Data Cleaning
