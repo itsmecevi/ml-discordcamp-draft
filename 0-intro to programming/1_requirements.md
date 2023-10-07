@@ -1,10 +1,14 @@
+
+__
+
+# ID
+
 ### Plan
 
 * Syllabus
 * Is is for me?
-* Supporting Us:
+* Tools: Github, Kaggle, Google Colab, and ChatGPT
+* Keep Contact:
     * Join Discord: https://discord.gg/Rke9e6gfrz
-    * Subscribe Youtube: https://www.youtube.com/channel/UCO6erGvHRLRPlyAsWoh8iiw
-    * Add Linkedin: https://www.linkedin.com/in/cevi-herdian-ba83a9a2/
+    * Youtube: https://www.youtube.com/channel/UCO6erGvHRLRPlyAsWoh8iiw
 * Q&A
-* Google Colab (Python): https://colab.research.google.com/
